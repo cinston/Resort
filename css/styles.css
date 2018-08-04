@@ -1,0 +1,19 @@
+h1 {
+  color: #f7325e;
+  text-align: left;
+}
+h2 {
+  color: #f7325e;
+}
+body {
+  color: #7dc410;
+  font-family: fantasy;
+}
+.popular {
+  color: #490010;
+  font-size: 20px;
+}
+ul.popular {
+  color: #490010;
+  font-size: 15px;
+}
